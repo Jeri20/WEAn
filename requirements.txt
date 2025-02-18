@@ -1,0 +1,5 @@
+Flask==2.2.2
+playwright==1.29.0
+scrapy==2.6.1
+transformers==4.18.0
+asyncio==3.4.3
